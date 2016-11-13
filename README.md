@@ -4,7 +4,7 @@
 ===============
 An educational tutorial and working demonstration pipeline for RNA-seq analysis including an introduction to: cloud computing, next generation sequence file formats, reference genomes, gene annotation, expression analysis, differential expression analysis, alternative splicing analysis, data visualization, and interpretation.
 
-This repository is used to store code and certain raw materials for a detailed RNA-seq tutorial.  To actually complete this tutorial, go to the <a href="https://github.com/griffithlab/rnaseq_tutorial/wiki">RNA-seq tutorial wiki</a>.
+This repository is used to store code and certain raw materials for a detailed RNA-seq tutorial.  To actually complete this tutorial, go to the <a href="https://github.com/griffithlab/rnaseq_tutorial_v1/wiki">RNA-seq tutorial wiki</a>.
 
 Citation:
 Malachi Griffith\*, Jason R. Walker, Nicholas C. Spies, Benjamin J. Ainscough, Obi L. Griffith\*. 2015. <a href="http://dx.doi.org/10.1371/journal.pcbi.1004393">Informatics for RNA-seq: A web resource for analysis on the cloud</a>. PLoS Comp Biol. 11(8):e1004393.
